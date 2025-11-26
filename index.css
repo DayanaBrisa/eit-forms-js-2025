@@ -21,7 +21,7 @@ textarea {
     padding: 32px;
 }
 
-.forn-container {
+.form-container {
     display: flex;
     flex-direction: column;
     gap: 16px;
